@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "Stealth Mode",
+    "name": "Stealth Mode Privacy Screen",
     "version": "0.1",
-    "description": "Adds a blur effect on the broswer to add a better level of privacy whenn needed.",
+    "description": "Adds a blur effect on the broswer to add a better level of privacy when needed.",
     "icons": {
         "48": "icons/mask-solid.svg"
     },
@@ -11,7 +11,7 @@
     ],
     "browser_action": {
         "default_icon": "icons/mask-solid.svg",
-        "default_title": "Stealth Mode",
+        "default_title": "Stealth Mode Privacy Screen",
         "default_popup": "popup/app.html"
     }
 }
